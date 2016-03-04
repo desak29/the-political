@@ -1,0 +1,39 @@
+body{
+text-align:center;
+background-color: #01ed87;
+}
+h1{
+	color:#329561;
+	/*fc4600 other color*/
+	margin:40px 0px 0px;
+	font-size:60px;
+
+}
+h2{
+	color:#329561;
+	font size:40px;
+}
+#countdown-wrapper{
+	color:#fff;
+	font-size:30px;
+	}
+#countdown-wrapper .time-wrapper{
+
+	display:inline-block;
+	padding:10px;
+	background: #00806B;
+	border-radius=3px;
+
+
+}
+.time-wrapper >div{
+	padding:15px;
+	border-radius:3px;
+	background-color:#00806B;
+	display:inline-block;
+}
+.time-text{
+	padding: 5px;
+	font-size:20px;
+}
+/*for a div one level down from timewrapper*/
